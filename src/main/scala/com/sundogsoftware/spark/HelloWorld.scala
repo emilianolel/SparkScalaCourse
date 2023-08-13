@@ -14,7 +14,7 @@ object HelloWorld {
     val numLines = lines.count()
 
     println("Hello world! The u.data file has " + numLines + " lines.")
-
+    // hola
     sc.stop()
   }
 }
